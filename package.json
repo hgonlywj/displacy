@@ -2,7 +2,7 @@
   "name": "displacy-demo",
   "version": "1.0.2",
   "description": "An open-source NLP visualiser for the modern web",
-  "main": "index.jade",
+  "main": "./assets/js/displacy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
